@@ -18,19 +18,19 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','62895336722950','6287721317870','6288292024190']
-global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
-global.author = 'WhatsApp Bot'
+global.owner = ['6288210072756']
+global.premium = ['6288210072756']
+global.packname = 'LuccyBot'
+global.author = 'LuxxyVFX'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
+    admin: 'Fitur Ini Cuma Buat Admin Goblokk!!',
+    botAdmin: 'Jadiin Gua Admin Dulu Lahh Anj!',
+    owner: 'Emang Lu Owner Hah Ngentot?',
+    group: 'Fitur Cuma Bisa Dipake Di Grup Woiii!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loading...',
